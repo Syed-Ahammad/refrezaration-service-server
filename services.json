@@ -1,0 +1,62 @@
+[
+    {
+        "title": "AC Installation",
+        "price": 195,
+        "description": "An HVAC Technician is responsible for installing, repairing, and conducting maintenance on equipment like furnaces that require constant care. They also diagnose problems with system integrity so they can be fixed quickly in case there's ever an emergency situation.",
+        "image": "https://demo.htmlcodex.com/2574/ac-repair-website-template/img/service-1.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "title": "Cooling Services",
+        "price": 223,
+        "description": "An HVAC Technician is responsible for installing, repairing, and conducting maintenance on equipment like furnaces that require constant care. They also diagnose problems with system integrity so they can be fixed quickly in case there's ever an emergency situation.",
+        "image": "https://demo.htmlcodex.com/2574/ac-repair-website-template/img/service-2.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "title": "Heating Services",
+        "price": 599,
+        "description": "An HVAC Technician is responsible for installing, repairing, and conducting maintenance on equipment like furnaces that require constant care. They also diagnose problems with system integrity so they can be fixed quickly in case there's ever an emergency situation.",
+        "image": "https://demo.htmlcodex.com/2574/ac-repair-website-template/img/service-3.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "title": "Maintenance & Repair",
+        "price": 159,
+        "description": "An HVAC Technician is responsible for installing, repairing, and conducting maintenance on equipment like furnaces that require constant care. They also diagnose problems with system integrity so they can be fixed quickly in case there's ever an emergency situation.",
+        "image": "https://demo.htmlcodex.com/2574/ac-repair-website-template/img/service-4.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "title": "Indoor Air Quality",
+        "price": 695,
+        "description": "An HVAC Technician is responsible for installing, repairing, and conducting maintenance on equipment like furnaces that require constant care. They also diagnose problems with system integrity so they can be fixed quickly in case there's ever an emergency situation.",
+        "image": "https://demo.htmlcodex.com/2574/ac-repair-website-template/img/service-5.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "title": "Annual Inspections",
+        "price": 168,
+        "description": "An HVAC Technician is responsible for installing, repairing, and conducting maintenance on equipment like furnaces that require constant care. They also diagnose problems with system integrity so they can be fixed quickly in case there's ever an emergency situation.",
+        "image": "https://demo.htmlcodex.com/2574/ac-repair-website-template/img/service-6.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+]
